@@ -1,5 +1,5 @@
 ---
-title: "Property Market Analysis: Data Preparation and Visual Insights into Price Trends""
+title: "Leveraging R for Property Data Management: Cleaning, Transformation, and Visualization"
 author: "Nur Alya Maisarah Abd Karim, A00268252"
 output:
   pdf_document:
